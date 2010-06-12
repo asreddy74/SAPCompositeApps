@@ -42,7 +42,7 @@ public class OAuthSample1Servlet extends HttpServlet {
 	        s = Get_RequestToken.Run(oAuthHelper, false);
 	        System.out.println(s);       
 	        //Go and run the next sample.
-	        System.out.println("When you have authorized the application run the DesktopGetAccessToken.java sample file and use the variables above for the RequestToken and RequestTokenSecret\n\r");
+	        //System.out.println("When you have authorized the application run the DesktopGetAccessToken.java sample file and use the variables above for the RequestToken and RequestTokenSecret\n\r");
 	        String location = s;
 	        
 	        resp.setContentType("text/html");
@@ -52,6 +52,8 @@ public class OAuthSample1Servlet extends HttpServlet {
 	                    "<HTML>\n" +
 	                    "<HEAD><TITLE>Hello WWW</TITLE></HEAD>\n" +
 	                    "<BODY>\n" +
+	                    "<h>\n" + "oAuth Sample App - click link to trigger call" +
+	                    "</h>\n" +
 	                    "<A href=" + location + ">" + location + "</A>" +
 	                    "</BODY></HTML>");
 
