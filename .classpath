@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Program Files/Adobe/Flex Builder 3 Plug-in/eclipse/plugins/com.google.gwt.eclipse.sdkbundle.2.0.0_2.0.0.v200912070510/gwt-2.0.0/gwt-user.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Program%20Files/Adobe/Flex%20Builder%203%20Plug-in/eclipse/plugins/com.google.gwt.eclipse.sdkbundle.2.0.0_2.0.0.v200912070510/gwt-2.0.0/doc/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files/Adobe/Flex Builder 3 Plug-in/eclipse/plugins/com.google.gwt.eclipse.sdkbundle.2.0.0_2.0.0.v200912070510/gwt-2.0.0/gwt-dev.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Program%20Files/Adobe/Flex%20Builder%203%20Plug-in/eclipse/plugins/com.google.gwt.eclipse.sdkbundle.2.0.0_2.0.0.v200912070510/gwt-2.0.0/doc/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/jsr107cache-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-analytics-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-analytics-meta-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-appsforyourdomain-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-appsforyourdomain-meta-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-base-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-blogger-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-blogger-meta-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-books-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-books-meta-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-calendar-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-calendar-meta-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-client-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-client-meta-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-codesearch-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-codesearch-meta-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-contacts-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-contacts-meta-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-core-1.0.jar" sourcepath="C:/Personal/Digital/myLab/WorkinProgress/projects/apps500/gdata-src.java-1.41.1/gdata/java/src"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-docs-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-docs-meta-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-finance-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-finance-meta-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-gtt-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-gtt-meta-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-health-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-health-meta-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-maps-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-maps-meta-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-media-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-photos-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-photos-meta-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-projecthosting-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-projecthosting-meta-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-sidewiki-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-sidewiki-meta-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-sites-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-sites-meta-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-spreadsheet-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-spreadsheet-meta-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-webmastertools-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-webmastertools-meta-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-youtube-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/user/gdata-youtube-meta-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/impl/appengine-api-stubs.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/impl/appengine-local-runtime.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/impl/appengine-api.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/impl/appengine-api-labs.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/shared/geronimo-el_1.0_spec-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/shared/geronimo-jsp_2.1_spec-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/shared/geronimo-servlet_2.5_spec-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/shared/appengine-local-runtime-shared.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/shared/jsp/repackaged-appengine-commons-el-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/shared/jsp/repackaged-appengine-commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/shared/jsp/repackaged-appengine-jasper-compiler-5.0.28.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/shared/jsp/repackaged-appengine-jasper-runtime-5.0.28.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/shared/jsp/repackaged-appengine-ant-1.6.5.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/D031666/My Documents/MySVN/export/google/appengine/java/lib/shared/jsp/repackaged-appengine-ant-launcher-1.6.5.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
